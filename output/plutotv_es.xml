@@ -10955,6 +10955,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
         <icon src="https://images.pluto.tv/series/69172311f17cb9c145a8129b/tile_1786097768326.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="69148c470155f9b136b5d856" start="20261114043000 +0000" stop="20261114053000 +0000">
+        <title>The Creator Clash</title>
+        <desc>Jaack Maate and Joe Perry face Aaron Hunt and Tony Knowles in the Best of three frames.</desc>
+        <icon src="https://images.pluto.tv/series/6a49040b920a04f6d75f9c93/tile_1785730485739.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="696e02423b9ce349c90edef9" start="20261113225800 +0000" stop="20261113234600 +0000">
         <title>WRC: More Than Machine</title>
         <desc>Documentary series following members of the M-Sport World Rally Championship team as they face the trials and tribulations of competing in rally driving at the highest level.</desc>
@@ -33880,7 +33885,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Acompañan a José Mota en este programa  Xavier Del Tell, Patricia Rivas, Goyo Jimenez, Valentin Paredes y Paco Collado, entre otros.</desc>
         <icon src="https://images.pluto.tv/series/624d4a09ffa0a9001399688b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1abce155a03d0007718834" start="20261114194540 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1abce155a03d0007718834" start="20261114194540 +0000" stop="20261114203540 +0000">
+        <title>La hora de José Mota: Miedos y fobias</title>
+        <desc>A través de divertidos sketches, analizarán los típicos miedos y fobias por los que pasa una persona hasta el punto de ver cosas imaginarias. Colaboran Eduardo García, Goyo Jiménez, el Mago More, Agustín Jiménez, Jaime Ordóñez, Leo Harlem y Paco Collado.</desc>
+        <icon src="https://images.pluto.tv/series/624d4a09ffa0a9001399688b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1abce155a03d0007718834" start="20261114203540 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Comedia made in Spain</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33890,7 +33900,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Retrata la vida del atrevido explorador Cristóbal Colón. Un difícil y sorprendente viaje hasta una tierra desconocida por el mundo, América; el efecto sobre las tribus indígenas y la vuelta del héroe a España hasta su muerte.</desc>
         <icon src="https://images.pluto.tv/series/636e431e576be6001373af88/tile_1769194448437.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac1f1b66c76000790ef27" start="20261114195840 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1ac1f1b66c76000790ef27" start="20261114195840 +0000" stop="20261114213817 +0000">
+        <title>Irrational Man</title>
+        <desc>Escrita y dirigida por Woody Allen. Un atormentado profesor de Filosofía (Joaquin Phoenix) encuentra las ganas de vivir cuando comete un acto existencial junto a su amiga y alumna (Emma Stone).</desc>
+        <icon src="https://images.pluto.tv/series/67371fe5a7fde5001326ba9b/tile_1778142602358.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac1f1b66c76000790ef27" start="20261114213817 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Cine Estelar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33920,7 +33935,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Un asesino en serie accede a confesarlo todo, pero sólo si es al detective, antiguo cura, que lo arrestó.</desc>
         <icon src="https://images.pluto.tv/series/654a2dc805bcdf001a32a41e/tile_1782272529279.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac8a87cd38d000745d7cf" start="20261114193759 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1ac8a87cd38d000745d7cf" start="20261114193759 +0000" stop="20261114215243 +0000">
+        <title>The Ghost Writer</title>
+        <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
+        <icon src="https://images.pluto.tv/series/6735d3fdb7ea5e0013a6a2c0/tile_1781251202379.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8a87cd38d000745d7cf" start="20261114215243 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Thrillers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33930,7 +33950,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Dublín, 1904, James Joyce conversa con Nora Barnacle, una camarera de hotel recién llegada de Galway. Ella lo encanta con su actitud franca y desinhibida y, en poco tiempo, la convence de que lo acompañe a Trieste.</desc>
         <icon src="https://images.pluto.tv/series/6a219cd57918fece01f17a6b/tile_1780587734401.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac947dcd00d0007937c08" start="20261114191849 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1ac947dcd00d0007937c08" start="20261114191849 +0000" stop="20261114211249 +0000">
+        <title>Rebelde entre el centeno</title>
+        <desc>La película sigue la vida del famoso escritor J.D. Salinger, centrándose en las circunstancias que rodean la creación de su obra más conocida: El guardián entre el centeno, que logró capturar a una generación desencantada.</desc>
+        <icon src="https://images.pluto.tv/series/62876b18e26cc40014b2cce5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac947dcd00d0007937c08" start="20261114211249 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Cine Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33940,7 +33965,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Una noche de verano en una mansión en el campo irlandés en 1880. La película explora la lucha de poder entre una joven aristócrata y el criado de su padre.</desc>
         <icon src="https://images.pluto.tv/series/60d0437c28f1d30013ed3d79/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac9a2d3611d0007a844bb" start="20261114195752 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1ac9a2d3611d0007a844bb" start="20261114195752 +0000" stop="20261114215352 +0000">
+        <title>Dime con cuántos</title>
+        <desc>Ally Darling emprende una búsqueda del mejor "ex" de su vida y por todos los medios, luego de leer un artículo en la revista que decía que las personas que han tenido veinte o más relaciones ya perdieron su oportunidad de encontrar el verdadero amor.</desc>
+        <icon src="https://images.pluto.tv/series/6076b6a9235736001ac449b3/tile_1778890682034.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac9a2d3611d0007a844bb" start="20261114215352 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Cine Romántico</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/featuredImage_1747044085200.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33950,7 +33980,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Invitado: Arturo Valls. Monólogo de Andoni Agirregomezkorta. Entrevista a Arturo Valls. Antxon Gorriti le hace a Arturo Valls el test del presentador. La imagen de la semana con Javier Antón.</desc>
         <icon src="https://images.pluto.tv/series/5f44c0738e4fda001a5bcd15/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f28009b150b2500077766b8" start="20261114191300 +0000" stop="20261114230000 +0000">
+    <programme channel="5f28009b150b2500077766b8" start="20261114191300 +0000" stop="20261114204800 +0000">
+        <title>Vaya Semanita: Episode 12</title>
+        <desc>Invitada: Arancha de Benito. Monólogo de Andoni Agirregomezkorta. Entrevista a Arancha de Benito. La imagen de la semana con Javier Antón. Antxon Gudari, el último superviviente. Plató chroma Sánchez Vicario con Rafa Nadal.</desc>
+        <icon src="https://images.pluto.tv/series/5f44c0738e4fda001a5bcd15/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f28009b150b2500077766b8" start="20261114204800 +0000" stop="20261114230000 +0000">
         <title>Vaya semanita</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f28009b150b2500077766b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33960,7 +33995,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Gordon inventa la máquina "Rememory" que le permite ver los recuerdos tal y como fueron en realidad.</desc>
         <icon src="https://images.pluto.tv/series/6a219e34812ca10016665618/tile_1780588441857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f6a38eaa5b68b0007a00e7a" start="20261114190304 +0000" stop="20261114230000 +0000">
+    <programme channel="5f6a38eaa5b68b0007a00e7a" start="20261114190304 +0000" stop="20261114203810 +0000">
+        <title>Código fuente</title>
+        <desc>Jake Gyllenhaal protagoniza este thriller de acción sobre un hombre que despierta en el cuerpo de otro hombre para descubrir que solo él tiene la capacidad de detener un ataque terrorista en un tren de cercanías.</desc>
+        <icon src="https://images.pluto.tv/series/672dcc122678a50014518e37/tile_1776175563431.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f6a38eaa5b68b0007a00e7a" start="20261114203810 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Sci-Fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33970,7 +34010,22 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Enfrentar a Carpaccio, que copia habilidades, es como luchar contra los 10 de The Robert. Ueki usa sus armas de seis estrellas, pero los trucos de Carpaccio son mayores. Su batalla llega al clímax: ¡el enfrentamiento en la mansión Dogra termina!</desc>
         <icon src="https://images.pluto.tv/series/6971f4a8cd24a9501e9727ba/tile_1769075881222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608035b8d8705f0007260287" start="20261114190540 +0000" stop="20261114230000 +0000">
+    <programme channel="608035b8d8705f0007260287" start="20261114190540 +0000" stop="20261114193202 +0000">
+        <title>La Ley de Ueki</title>
+        <desc>Marcado por un trauma infantil en el Mundo Humano, Robert usa el Talento de Blank para destruir la Tierra. Aunque maltrecho, Ueki lo enfrenta. Como Celestial de Diez Estrellas, Robert revela por qué Ueki no puede ganar y muestra su poder oculto.</desc>
+        <icon src="https://images.pluto.tv/series/6971f4a8cd24a9501e9727ba/tile_1769075881222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608035b8d8705f0007260287" start="20261114193202 +0000" stop="20261114195824 +0000">
+        <title>La Ley de Ueki</title>
+        <desc>Robert rechaza el intento de Ueki de salvarlo, consumido por su odio hacia los humanos. Con su poder de convertir ideales en realidad, abruma a Ueki, hasta que Sano, Rinko y Ai llegan para protegerlo. Unidos, ¿podrá su amistad cambiar el destino?</desc>
+        <icon src="https://images.pluto.tv/series/6971f4a8cd24a9501e9727ba/tile_1769075881222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608035b8d8705f0007260287" start="20261114195824 +0000" stop="20261114202459 +0000">
+        <title>La Ley de Ueki</title>
+        <desc>Ueki descubre que el Sr. K solo fue liberado temporalmente y pide al Rey Celestial que salve a él y a Inumaru. Mientras Robert duda de su plan y lo confiesa a Margaret, aparece un misterioso chico llamado Hanon, quien también llama a Margaret «padre».</desc>
+        <icon src="https://images.pluto.tv/series/6971f4a8cd24a9501e9727ba/tile_1769075881222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608035b8d8705f0007260287" start="20261114202459 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Anime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608035b8d8705f0007260287/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34010,7 +34065,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>En un mundo post-zombi, donde los infectados viven vidas normales, su medicamento retroviral se está agotando.</desc>
         <icon src="https://images.pluto.tv/series/67ef892089ba442cd9277b02/tile_1778802128253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6267d4d1fb694f0007a6af0e" start="20261114195709 +0000" stop="20261114230000 +0000">
+    <programme channel="6267d4d1fb694f0007a6af0e" start="20261114195709 +0000" stop="20261114214509 +0000">
+        <title>Dagon, La Secta Del Mar</title>
+        <desc>Basada en la historia de H.P. Lovecraft. Unos náufragos llegan a un pueblo, donde los residentes se convierten en peces.</desc>
+        <icon src="https://images.pluto.tv/series/5f4e182cfa72a5001a5fa5b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6267d4d1fb694f0007a6af0e" start="20261114214509 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Horror</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34020,7 +34080,22 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Genta tiene a un criminal persiguiéndole y se lo cuenta a la liga juvenil de detectives. Conan usando su ingenio conseguirá resolver las inconjeturas de la historia de Genta y descubrir quien es el sospechoso que amenaza a Genta.</desc>
         <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1780997556004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="629a066860ef810008267b70" start="20261114190112 +0000" stop="20261114230000 +0000">
+    <programme channel="629a066860ef810008267b70" start="20261114190112 +0000" stop="20261114192812 +0000">
+        <title>Detective Conan: El Kogoro Mouri impostor (I)</title>
+        <desc>Kogoro, Conan y Ran van a un hotel donde ha sido invitado, pero se encuentran con que un hombre suplantó su identidad y ahora está muerto.</desc>
+        <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1780997556004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="629a066860ef810008267b70" start="20261114192812 +0000" stop="20261114195512 +0000">
+        <title>Detective Conan: El Kogoro Mouri impostor (I)</title>
+        <desc>Se resuelve el misterio que rondaba el hotel hacía algunos años y la misteriosa muerte del Kogoro Mouri impostor.</desc>
+        <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1780997556004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="629a066860ef810008267b70" start="20261114195512 +0000" stop="20261114202212 +0000">
+        <title>Detective Conan: Disparo en la residencia Girasol</title>
+        <desc>Kogoro es contratado por un arquitecto para que averigüe quien lo está acosando, mientras Kogoro se encuentra en la residencia de su cliente, este es asesinado.</desc>
+        <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1780997556004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="629a066860ef810008267b70" start="20261114202212 +0000" stop="20261114230000 +0000">
         <title>Detective Conan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/629a066860ef810008267b70/featuredImage_1780997960365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34030,7 +34105,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>La situación es angustiosa para los jugadores del Instituto Raimon. Por detrás en el marcador, con varios jugadores lesionados, e incapaces de frenar a sus rivales.</desc>
         <icon src="https://images.pluto.tv/series/611bb08c73019a0013eb851c/tile_1774278721078.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="632c6df43d2bc5000751f621" start="20261114191600 +0000" stop="20261114230000 +0000">
+    <programme channel="632c6df43d2bc5000751f621" start="20261114191600 +0000" stop="20261114194200 +0000">
+        <title>Inazuma Eleven: ¡Que vienen los extraterrestres!</title>
+        <desc>Después de ganar el Torneo Frontier, el Raimon vuelve a su ciudad para celebrarlo con sus amigos y sus vecinos. En ese momento, una extraña esfera cae del cielo, ¡justo sobre el Instituto Raimon! Se trata de la Academia Alius.</desc>
+        <icon src="https://images.pluto.tv/series/611bb08c73019a0013eb851c/tile_1774278721078.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="632c6df43d2bc5000751f621" start="20261114194200 +0000" stop="20261114200800 +0000">
+        <title>Inazuma Eleven: ¡La partida del Raimon!</title>
+        <desc>La derrota contra el equipo de la Academia Alius ha tenido consecuencias y muchos de los jugadores del Raimon están lesionados. El tiempo juega en contra de todos, y la amenaza de los extraterrestres es peligrosa.</desc>
+        <icon src="https://images.pluto.tv/series/611bb08c73019a0013eb851c/tile_1774278721078.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="632c6df43d2bc5000751f621" start="20261114200800 +0000" stop="20261114230000 +0000">
         <title>Inazuma Eleven</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34050,7 +34135,22 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Aunque Joey le ha diezmado sus puntos de vida, Yugi no se atreve a atacar a su querido amigo. Yugi convoca al monstruo favorito de Joey, el Dragón B. de Ojos Rojos, para intentar que Joey recupere la cordura.</desc>
         <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1774023121747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb96754e83e70008ab8941" start="20261114190400 +0000" stop="20261114230000 +0000">
+    <programme channel="63eb96754e83e70008ab8941" start="20261114190400 +0000" stop="20261114192900 +0000">
+        <title>Yu-Gi-Oh!: Amigos hasta el final: Parte 3</title>
+        <desc>Yugi empieza a romper el hechizo de Marik sobre Joey, pero ahora debe batirse en duelo sin el Rompecabezas del Milenio. Cuando Joey roba la carta que necesita para diezmar los puntos de vida de Yugi, ¿qué posibilidades le quedan para ganar?</desc>
+        <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1774023121747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb96754e83e70008ab8941" start="20261114192900 +0000" stop="20261114195400 +0000">
+        <title>Yu-Gi-Oh!: Amigos hasta el final: Parte 4</title>
+        <desc>Solo queda un minuto de duelo para que el perdedor caiga en las profundidades del mar. ¿Se enviarán estos mejores amigos a su perdición? Sin embargo, puede haber una salvadora especial que acaba de recuperar la vista.</desc>
+        <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1774023121747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb96754e83e70008ab8941" start="20261114195400 +0000" stop="20261114201800 +0000">
+        <title>Yu-Gi-Oh!: La sombra de un duelo</title>
+        <desc>Es la batalla de los espectros porque Bakura desata su ejército de fantasmas contra los feroces zombis de Bonz para poder entrar en la final de la Ciudad de la Batalla. Pero, ¿por quién doblará la campana final cuando jueguen en el Reino de las Sombras?</desc>
+        <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1774023121747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb96754e83e70008ab8941" start="20261114201800 +0000" stop="20261114230000 +0000">
         <title>Yu-Gi-Oh!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34060,7 +34160,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Dos actores de fenómenos televisivos (Juego de Tronos y Sex Education) protagonizan este fantástico romance. Un joven (Asa Butterfield) inventa una máquina del tiempo para recuperar a su exnovia (Sophie Turner).</desc>
         <icon src="https://images.pluto.tv/series/69fb6f5e4c1064447fbcb08f/tile_1778085727356.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="645a309c5a0cd5000873f609" start="20261114191221 +0000" stop="20261114230000 +0000">
+    <programme channel="645a309c5a0cd5000873f609" start="20261114191221 +0000" stop="20261114211023 +0000">
+        <title>El juego de Ender</title>
+        <desc>Harrison Ford, Asa Butterfield, Hailee Steinfeld, Ben Kingsley, Viola Davis y Abigail Breslin protagonizan esta aventura de ciencia ficción repleta de acción basada en la novela superventas.</desc>
+        <icon src="https://images.pluto.tv/series/67516488a7fde50013705b8d/tile_1777997882370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a309c5a0cd5000873f609" start="20261114211023 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Catástrofes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34080,7 +34185,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>¡El mejor cine de zombis está en Pluto TV Zombies! ¡Todas las noches a las 23.00 los muertos vivientes tienen su propio canal, en Pluto TV!</desc>
         <icon src="https://images.pluto.tv/series/67c8585962a62059dd6f4423/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65786888b228b7000843ad9a" start="20261114192941 +0000" stop="20261114230000 +0000">
+    <programme channel="65786888b228b7000843ad9a" start="20261114192941 +0000" stop="20261114195941 +0000">
+        <title>Pluto TV Zombies</title>
+        <desc>¡El mejor cine de zombis está en Pluto TV Zombies! ¡Todas las noches a las 23.00 los muertos vivientes tienen su propio canal, en Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/67c8585962a62059dd6f4423/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65786888b228b7000843ad9a" start="20261114195941 +0000" stop="20261114202941 +0000">
+        <title>Pluto TV Zombies</title>
+        <desc>¡El mejor cine de zombis está en Pluto TV Zombies! ¡Todas las noches a las 23.00 los muertos vivientes tienen su propio canal, en Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/67c8585962a62059dd6f4423/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65786888b228b7000843ad9a" start="20261114202941 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Zombies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65786888b228b7000843ad9a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34100,7 +34215,22 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
         <icon src="https://images.pluto.tv/series/671fb88adaad7f00086e36fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b0dfa1d512590008bfa7fd" start="20261114190054 +0000" stop="20261114230000 +0000">
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20261114190054 +0000" stop="20261114193054 +0000">
+        <title>Pluto TV Gore &amp; Slasher</title>
+        <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+        <icon src="https://images.pluto.tv/series/671fb88adaad7f00086e36fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20261114193054 +0000" stop="20261114193154 +0000">
+        <title>Pluto TV Gore &amp; Slasher</title>
+        <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+        <icon src="https://images.pluto.tv/series/671fb88adaad7f00086e36fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20261114193154 +0000" stop="20261114200154 +0000">
+        <title>Pluto TV Gore &amp; Slasher</title>
+        <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+        <icon src="https://images.pluto.tv/series/671fb88adaad7f00086e36fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20261114200154 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Gore &amp; Slasher</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34120,7 +34250,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Gin es el capitán de la toda la flota de Don Krieg. Es muy hábil con las manos. Tiene la orden de matar a Sanji, pero Gin no puede hacerlo ya que Sanji le salvó la vida.</desc>
         <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680ba8992472a7200a183eb5" start="20261114191823 +0000" stop="20261114230000 +0000">
+    <programme channel="680ba8992472a7200a183eb5" start="20261114191823 +0000" stop="20261114194430 +0000">
+        <title>One Piece</title>
+        <desc>Don Krieg se asombra de la habilidad y destreza de Luffy, ya que aún usando todo sus poderes y armas no logra derrotarlo.</desc>
+        <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8992472a7200a183eb5" start="20261114194430 +0000" stop="20261114201037 +0000">
+        <title>One Piece</title>
+        <desc>Don Krieg, aún usando todas sus poderosas armas, es derrotado por la perseverancia y la fe de Luffy.</desc>
+        <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8992472a7200a183eb5" start="20261114201037 +0000" stop="20261114230000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680ba8992472a7200a183eb5/featuredImage_1748955630680.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34130,7 +34270,22 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Seiya y Shiryu atraviesan sin dificultades la casa Géminis, pero Shun y Hyoga no tienen tanta suerte y este último acaba a la deriva en otra dimensión.</desc>
         <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680ba8c3a48b3ead0db701cc" start="20261114190033 +0000" stop="20261114230000 +0000">
+    <programme channel="680ba8c3a48b3ead0db701cc" start="20261114190033 +0000" stop="20261114192741 +0000">
+        <title>Saint Seiya</title>
+        <desc>Gracias a la intervención a dístancia de su hermano Ikki, Shun consigue escapar con vida del laberinto de ilusiones de la Casa de Géminis.</desc>
+        <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8c3a48b3ead0db701cc" start="20261114192741 +0000" stop="20261114195449 +0000">
+        <title>Saint Seiya</title>
+        <desc>Tras despertar en la casa de Libra, Hyoga es derrotado y atrapado en un bloque de hielo por Camus, maestro de maestro y Caballero de Acuario.</desc>
+        <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8c3a48b3ead0db701cc" start="20261114195449 +0000" stop="20261114202139 +0000">
+        <title>Saint Seiya</title>
+        <desc>Shiryu reta al Caballero de Cáncer mientras Seiya avanza a la casa de Leo. Death Mask envía a Shiryu al purgatorio, donde encuentra a Hyoga y a Saori.</desc>
+        <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8c3a48b3ead0db701cc" start="20261114202139 +0000" stop="20261114230000 +0000">
         <title>Los caballeros del Zodiaco</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/featuredImage_1791893357316.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34140,7 +34295,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Salmon Whitney, gourmet y científico, subasta sus diamantes en París. Pero Lupin descubre que alguien más los ha robado antes. ¿Quién ha sido?</desc>
         <icon src="https://images.pluto.tv/series/698eecfe3d056f16381a59d6/tile_1770974583001.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="683457e5f59cc6a13212fce4" start="20261114191220 +0000" stop="20261114230000 +0000">
+    <programme channel="683457e5f59cc6a13212fce4" start="20261114191220 +0000" stop="20261114193944 +0000">
+        <title>Lupin the 3rd Parte 2</title>
+        <desc>Fujiko convence a Lupin para robar la lámpara de araña de diamantes del Kremlin. Disfrazado de Zenigata, intenta infiltrarse… pero la soldado Natasha lo captura.</desc>
+        <icon src="https://images.pluto.tv/series/698eecfe3d056f16381a59d6/tile_1770974583001.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="683457e5f59cc6a13212fce4" start="20261114193944 +0000" stop="20261114200708 +0000">
+        <title>Lupin the 3rd Parte 2</title>
+        <desc>Lord Weather desafía a Lupin a robarle su caballo campeón, Red Arrow. Jigen no quiere participar: es amigo del noble. ¿Podrá Lupin ganar esta apuesta por orgullo?</desc>
+        <icon src="https://images.pluto.tv/series/698eecfe3d056f16381a59d6/tile_1770974583001.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="683457e5f59cc6a13212fce4" start="20261114200708 +0000" stop="20261114230000 +0000">
         <title>Lupin</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/featuredImage_1754485275815.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34150,7 +34315,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>El camino de Goku le lleva hasta una aldea aterrorizada por docenas de demonios que han secuestrado a la princesa del reino. Cuando el rey le pide ayuda, Goku no duda en adentrarse en el mundo de los demonios para rescatar a la chica.</desc>
         <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="685a996c7c4f2ad40cb4f276" start="20261114191513 +0000" stop="20261114230000 +0000">
+    <programme channel="685a996c7c4f2ad40cb4f276" start="20261114191513 +0000" stop="20261114194223 +0000">
+        <title>Dragon Ball</title>
+        <desc>Goku se enfrenta a la amenaza de un terrible monstruo mitad jabalí mitad mariposa cuyos gruñidos parten en dos el cielo y cuyas pezuñas hace temblar el suelo a su paso. Pero las cosas no siempre son lo que parecen...</desc>
+        <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685a996c7c4f2ad40cb4f276" start="20261114194223 +0000" stop="20261114200933 +0000">
+        <title>Dragon Ball</title>
+        <desc>Ya han pasado tres años desde que el Duende Tortuga envió a Goku a la aventura. Pero antes de que comience a buscar el camino hacia el Gran Torneo de Artes Marciales, aún le queda una última y dura lección por aprender...</desc>
+        <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685a996c7c4f2ad40cb4f276" start="20261114200933 +0000" stop="20261114230000 +0000">
         <title>Dragon Ball</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/featuredImage_1756876796839.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34160,7 +34335,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>En este nuevo episodio de "Vergüenza Ajena", Rob, Chanel y Steelo ponen rodilla al suelo porque están PRACTICANDO PETICIONES, añaden los peores ingredientes con unos CHEFS MALIGNOS y se quedan atrás siendo RÉMORAS.</desc>
         <icon src="https://images.pluto.tv/series/6448fd28559c07001a0e6550/tile_1786569481431.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68de3db35fc0afe85de0b843" start="20261114192120 +0000" stop="20261114230000 +0000">
+    <programme channel="68de3db35fc0afe85de0b843" start="20261114192120 +0000" stop="20261114194820 +0000">
+        <title>Vergüenza Ajena</title>
+        <desc>En este nuevo episodio de "Vergüenza Ajena", Rob, Chanel y Steelo reciben al famoso joyero Greg Yuna para parar el tráfico con LA BANDA DEL ATASCO, observan su calzado favorito en CROCÓFILOS y son rechazados por los que están RECHAZANDO DIAMANTES.</desc>
+        <icon src="https://images.pluto.tv/series/6448fd28559c07001a0e6550/tile_1786569481431.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68de3db35fc0afe85de0b843" start="20261114194820 +0000" stop="20261114201643 +0000">
+        <title>Central de Cómicos</title>
+        <desc>Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.</desc>
+        <icon src="https://images.pluto.tv/series/5f48a202bbff270013bcc3a8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68de3db35fc0afe85de0b843" start="20261114201643 +0000" stop="20261114230000 +0000">
         <title>Comedia a lo bestia de Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/featuredImage_1759402468158.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34170,7 +34355,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Un paciente perturbado se une a la terapia de grupo de Charlie.</desc>
         <icon src="https://images.pluto.tv/series/69fc6f5198d8c86aa4b08095/tile_1783979281949.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a0c25d1c3b9403659196293" start="20261114191550 +0000" stop="20261114230000 +0000">
+    <programme channel="6a0c25d1c3b9403659196293" start="20261114191550 +0000" stop="20261114194018 +0000">
+        <title>Terapia con Charlie</title>
+        <desc>Charlie causa problemas cuando se acuesta con la ex de Sean.</desc>
+        <icon src="https://images.pluto.tv/series/69fc6f5198d8c86aa4b08095/tile_1783979281949.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a0c25d1c3b9403659196293" start="20261114194018 +0000" stop="20261114200444 +0000">
+        <title>Terapia con Charlie</title>
+        <desc>Charlie le da consejos amorosos inmorales a Lacey.</desc>
+        <icon src="https://images.pluto.tv/series/69fc6f5198d8c86aa4b08095/tile_1783979281949.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a0c25d1c3b9403659196293" start="20261114200444 +0000" stop="20261114230000 +0000">
         <title>Terapia con Charlie</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a0c25d1c3b9403659196293/featuredImage_1780925529015.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -35296,7 +35491,17 @@ El sofá + Tesoro.</desc>
         <desc>Each Saturday morning, Adriana Diaz and Kelly O'Grady report on the week's top stories; the broadcast, known for its signature segments The Dish and Saturday Sessions, offers insightful conversations with artists, authors, chefs and musicians.</desc>
         <icon src="https://images.pluto.tv/series/64ecb67fc94b15001386ddcc/tile_1780697052443.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6231ede1be5b460007f91bc1" start="20261114193000 +0000" stop="20261114230000 +0000">
+    <programme channel="6231ede1be5b460007f91bc1" start="20261114193000 +0000" stop="20261114200000 +0000">
+        <title>CBS News Weekender</title>
+        <desc>Delving into the biggest stories of the week beyond just the news of the day, featuring original reporting and exclusive interviews along with lifestyle and pop-culture coverage.</desc>
+        <icon src="https://images.pluto.tv/series/66eacf049f04dd0013dbb0ce/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6231ede1be5b460007f91bc1" start="20261114200000 +0000" stop="20261114203000 +0000">
+        <title>CBS News Weekender</title>
+        <desc>Delving into the biggest stories of the week beyond just the news of the day, featuring original reporting and exclusive interviews along with lifestyle and pop-culture coverage.</desc>
+        <icon src="https://images.pluto.tv/series/66eacf049f04dd0013dbb0ce/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6231ede1be5b460007f91bc1" start="20261114203000 +0000" stop="20261114230000 +0000">
         <title>CBS News 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -35306,7 +35511,12 @@ El sofá + Tesoro.</desc>
         <desc>El equipo se enfrenta a su misión más peligrosa hasta el momento: detener a un grupo de ecoterroristas.</desc>
         <icon src="https://images.pluto.tv/series/5f8946d090fbf4001aa37e3e/tile_1768957201076.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65ddec1ef7f0af0008be4b65" start="20261114194052 +0000" stop="20261114230000 +0000">
+    <programme channel="65ddec1ef7f0af0008be4b65" start="20261114194052 +0000" stop="20261114202957 +0000">
+        <title>Mutante X</title>
+        <desc>Brennan está molesta con Adam, quien le dice que se le encomendó mantener un secreto y se va después de hablar con esa persona. El hombre está buscando a alguien y está dispuesto a matar a cualquiera para llegar a esa persona.</desc>
+        <icon src="https://images.pluto.tv/series/5f8946d090fbf4001aa37e3e/tile_1768957201076.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ddec1ef7f0af0008be4b65" start="20261114202957 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Series Sci-Fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -35316,7 +35526,12 @@ El sofá + Tesoro.</desc>
         <desc>Una niña de once años desaparece después de caer en una anomalía. Cutter y Stephen tratan de rescatarla pero cuando la anomalía se cierra, deben descubrir otro camino de vuelta  para estar a salvo de gigantes cangrejos de mar.</desc>
         <icon src="https://images.pluto.tv/series/611529d6975c210013c1a1d8/tile_1769452201294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65dded9a0d456100081417ae" start="20261114191600 +0000" stop="20261114230000 +0000">
+    <programme channel="65dded9a0d456100081417ae" start="20261114191600 +0000" stop="20261114200800 +0000">
+        <title>Primeval: Invasión jurásica: Episodio 6</title>
+        <desc>Un mamut campa a sus anchas a plena luz del día y el equipo debe esconderse. Mientras tanto, Cutter cree que hay un traidor en el medio y organiza una trampa para descubrir quién es.</desc>
+        <icon src="https://images.pluto.tv/series/611529d6975c210013c1a1d8/tile_1769452201294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65dded9a0d456100081417ae" start="20261114200800 +0000" stop="20261114230000 +0000">
         <title>Primeval</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65dded9a0d456100081417ae/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

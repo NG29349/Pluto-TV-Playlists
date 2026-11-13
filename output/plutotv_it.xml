@@ -10955,6 +10955,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
         <icon src="https://images.pluto.tv/series/69172311f17cb9c145a8129b/tile_1786097768326.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="69148c470155f9b136b5d856" start="20261114043000 +0000" stop="20261114053000 +0000">
+        <title>The Creator Clash</title>
+        <desc>Jaack Maate and Joe Perry face Aaron Hunt and Tony Knowles in the Best of three frames.</desc>
+        <icon src="https://images.pluto.tv/series/6a49040b920a04f6d75f9c93/tile_1785730485739.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="696e02423b9ce349c90edef9" start="20261113225800 +0000" stop="20261113234600 +0000">
         <title>WRC: More Than Machine</title>
         <desc>Documentary series following members of the M-Sport World Rally Championship team as they face the trials and tribulations of competing in rally driving at the highest level.</desc>
@@ -34370,7 +34375,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Alicia lleva unos enfermos y lastimados pingüinos al centro de rescate. Su bote queda atrapado en el hielo. Diego y bebé jaguar rescatan a Alicia y los pingüinos.</desc>
         <icon src="https://images.pluto.tv/series/6a0d9d8ef4a627f3b0f991dd/tile_1785193873833.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20261114192112 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20261114192112 +0000" stop="20261114194540 +0000">
+        <title>Go, Diego, Go!</title>
+        <desc>Diego transforma a Kit de Rescate en un ala delta y vuela para salvar a Chinta justo a tiempo antes de que caiga al agua.</desc>
+        <icon src="https://images.pluto.tv/series/6a0d9d8ef4a627f3b0f991dd/tile_1785193873833.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20261114194540 +0000" stop="20261114200909 +0000">
+        <title>Shimmer y Shine</title>
+        <desc>Leah, Shimmer y Shine descubren una gema mágica que duplica todo !incluyendo a Zeta. // Zac pide una mascota Ziffilón para Kaz que les causará más problemas y diversión de lo que esperaban.</desc>
+        <icon src="https://images.pluto.tv/series/6a0d9d87c2b638404f76cb0e/tile_1785193876416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20261114200909 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/featuredImage_1748328566610.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34380,7 +34395,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
         <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20261114190610 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1aab1d29b39600073e243f" start="20261114190610 +0000" stop="20261114193610 +0000">
+        <title>Pluto TV Kids</title>
+        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aab1d29b39600073e243f" start="20261114193610 +0000" stop="20261114200610 +0000">
+        <title>Pluto TV Kids</title>
+        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aab1d29b39600073e243f" start="20261114200610 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/featuredImage_1755854217838.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34390,7 +34415,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Wendale quiere respuestas de su ex, Emily; la cabeza de Charlie da vueltas y la playa trae otro ex desesperado por reavivar el fuego.</desc>
         <icon src="https://images.pluto.tv/series/62f60a9ab80401001a2ff897/tile_1783931445402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aadf373bed3000794d1d7" start="20261114191958 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1aadf373bed3000794d1d7" start="20261114191958 +0000" stop="20261114201039 +0000">
+        <title>La venganza de los Ex</title>
+        <desc>La Tablet del Terror deja en shock a la villa al revelar una cita secreta. El romance está en el aire para Grant y batalla por Nads continua.</desc>
+        <icon src="https://images.pluto.tv/series/62f60a9ab80401001a2ff897/tile_1783931445402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aadf373bed3000794d1d7" start="20261114201039 +0000" stop="20261114230000 +0000">
         <title>MTV Originals</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34400,7 +34430,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
         <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ab3c7778230000735cf41" start="20261114191545 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1ab3c7778230000735cf41" start="20261114191545 +0000" stop="20261114194545 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ab3c7778230000735cf41" start="20261114194545 +0000" stop="20261114201545 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685419a46fcd1eb88e797bf8/tile_1750949439763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ab3c7778230000735cf41" start="20261114201545 +0000" stop="20261114230000 +0000">
         <title>MTV Catfish TV Show</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34410,7 +34450,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>A laugh-out-loud recipe of culinary chaos, kitchen comedy and cooking calamities.</desc>
         <icon src="https://images.pluto.tv/series/68f7be3dd70c07ace8d0b2d8/tile_1761066559471.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20261114190300 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20261114190300 +0000" stop="20261114193500 +0000">
+        <title>FailArmy Presents Fail Family</title>
+        <desc>FailArmy celebrates all the weird uncles, strange cousins and black sheep that make getting together for the holidays such a trip.</desc>
+        <icon src="https://images.pluto.tv/series/68f6ac66c59f905cb0c4e535/tile_1760996466518.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20261114193500 +0000" stop="20261114200700 +0000">
+        <title>FailFactory</title>
+        <desc>Fails that span all generations of the family tree.</desc>
+        <icon src="https://images.pluto.tv/series/68dba395fa0f5ccff5736278/tile_1759226376387.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20261114200700 +0000" stop="20261114230000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34420,7 +34470,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
         <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile_1784584955724.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aca0b4e448e00075e7c5e" start="20261114190701 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20261114190701 +0000" stop="20261114193701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile_1784584955724.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20261114193701 +0000" stop="20261114200701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile_1784584955724.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20261114200701 +0000" stop="20261114230000 +0000">
         <title>Bob Esponja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34430,7 +34490,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Las adolescentes de esta temporada se reúnen para contar cómo han sido sus vidas después de que las cámaras dejaran de grabar.</desc>
         <icon src="https://images.pluto.tv/series/5f8d3a48740902001a95aca7/tile_1787580361291.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f98537a5a4341000733aefe" start="20261114191600 +0000" stop="20261114230000 +0000">
+    <programme channel="5f98537a5a4341000733aefe" start="20261114191600 +0000" stop="20261114200200 +0000">
+        <title>Embarazada a los 16: Maddy</title>
+        <desc>Muchas chicas estadounidenses quedan embarazadas en una sola noche.</desc>
+        <icon src="https://images.pluto.tv/series/5f8d3a48740902001a95aca7/tile_1787580361291.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f98537a5a4341000733aefe" start="20261114200200 +0000" stop="20261114230000 +0000">
         <title>MTV Embarazada a los 16</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34440,7 +34505,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>¡Adéntrate en el mundo de la tinta y la competición más extrema! Desde el arte más impactante de Ink Master hasta las historias más emocionantes y locas de Just Tattoo of us.</desc>
         <icon src="https://images.pluto.tv/series/6a50bf3dab089f20737aebe5/tile_1783676891228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="600169ec77e6f70008fa9cf0" start="20261114193000 +0000" stop="20261114230000 +0000">
+    <programme channel="600169ec77e6f70008fa9cf0" start="20261114193000 +0000" stop="20261114200000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>¡Adéntrate en el mundo de la tinta y la competición más extrema! Desde el arte más impactante de Ink Master hasta las historias más emocionantes y locas de Just Tattoo of us.</desc>
+        <icon src="https://images.pluto.tv/series/6a50bf3dab089f20737aebe5/tile_1783676891228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="600169ec77e6f70008fa9cf0" start="20261114200000 +0000" stop="20261114203000 +0000">
+        <title>MTV Ink Master</title>
+        <desc>¡Adéntrate en el mundo de la tinta y la competición más extrema! Desde el arte más impactante de Ink Master hasta las historias más emocionantes y locas de Just Tattoo of us.</desc>
+        <icon src="https://images.pluto.tv/series/6a50bf3dab089f20737aebe5/tile_1783676891228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="600169ec77e6f70008fa9cf0" start="20261114203000 +0000" stop="20261114230000 +0000">
         <title>MTV Ink Master</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/featuredImage_1783599834588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34450,7 +34525,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>¡Guaypaut! es una trepidante carrera de obstáculos que únicamente superarán aquellos concursantes que estén dotados de los mayores niveles de agilidad, destreza y fortaleza física.</desc>
         <icon src="https://images.pluto.tv/series/609a850672e8e300148aedc4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f8125c6669b00077f7699" start="20261114195200 +0000" stop="20261114230000 +0000">
+    <programme channel="604f8125c6669b00077f7699" start="20261114195200 +0000" stop="20261114211300 +0000">
+        <title>¡Guaypaut!: Episodio 10</title>
+        <desc>¡Guaypaut! es una trepidante carrera de obstáculos que únicamente superarán aquellos concursantes que estén dotados de los mayores niveles de agilidad, destreza y fortaleza física.</desc>
+        <icon src="https://images.pluto.tv/series/609a850672e8e300148aedc4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f8125c6669b00077f7699" start="20261114211300 +0000" stop="20261114230000 +0000">
         <title>Wipeout</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f8125c6669b00077f7699/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34460,7 +34540,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
         <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f81a49ef73300070e554f" start="20261114192952 +0000" stop="20261114230000 +0000">
+    <programme channel="604f81a49ef73300070e554f" start="20261114192952 +0000" stop="20261114195952 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
+        <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f81a49ef73300070e554f" start="20261114195952 +0000" stop="20261114202952 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Teen Mom sigue las andanzas de cuatro madres adolescentes que tienen que aprender a cuidar a sus pequeños mientras se enfrentan a los grandes retos de la vida: estudios, trabajo, problemas económicos y relaciones.</desc>
+        <icon src="https://images.pluto.tv/series/683716825195c2a60a5380dd/tile_1748440750593.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f81a49ef73300070e554f" start="20261114202952 +0000" stop="20261114230000 +0000">
         <title>MTV Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f81a49ef73300070e554f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34470,7 +34560,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
         <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609e7e423e9173000706a681" start="20261114192000 +0000" stop="20261114230000 +0000">
+    <programme channel="609e7e423e9173000706a681" start="20261114192000 +0000" stop="20261114195000 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609e7e423e9173000706a681" start="20261114195000 +0000" stop="20261114202000 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609e7e423e9173000706a681" start="20261114202000 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609e7e423e9173000706a681/featuredImage_1750147034191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34480,7 +34580,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Los Rugrats pueden ser bebés, pero no son ajenos a la aventura ... ni a los problemas! Pero no importa el problema, Tommy siempre encuentra una manera de solucionarlos.</desc>
         <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="610c09219fc0430007a3fce6" start="20261114192600 +0000" stop="20261114230000 +0000">
+    <programme channel="610c09219fc0430007a3fce6" start="20261114192600 +0000" stop="20261114195200 +0000">
+        <title>Rugrats, aventuras en pañales: El bebé más valiente / Dame una "a"</title>
+        <desc>Los Rugrats pueden ser bebés, pero no son ajenos a la aventura ... ni a los problemas! Pero no importa el problema, Tommy siempre encuentra una manera de solucionarlos.</desc>
+        <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="610c09219fc0430007a3fce6" start="20261114195200 +0000" stop="20261114201800 +0000">
+        <title>Rugrats, aventuras en pañales: La fuente de la juventud / El pastel de Kimi</title>
+        <desc>Los Rugrats pueden ser bebés, pero no son ajenos a la aventura ... ni a los problemas! Pero no importa el problema, Tommy siempre encuentra una manera de solucionarlos.</desc>
+        <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="610c09219fc0430007a3fce6" start="20261114201800 +0000" stop="20261114230000 +0000">
         <title>Rugrats</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/featuredImage-1632239835308.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34490,7 +34600,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
         <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6130d8dc943001000708548d" start="20261114190944 +0000" stop="20261114230000 +0000">
+    <programme channel="6130d8dc943001000708548d" start="20261114190944 +0000" stop="20261114193944 +0000">
+        <title>MTV Reality</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20261114193944 +0000" stop="20261114200944 +0000">
+        <title>MTV Reality</title>
+        <desc>Si te encanta el amor en todas sus expresiones ¡este canal es para ti! Disfruta de todos los programas de MTV donde el amor nunca sobra: ¿Amantes o farsantes?, Single AF, Amor a dos bandas, 10 parejas 10 y muchos más.</desc>
+        <icon src="https://images.pluto.tv/series/685174246fcd1eb88efb4ca1/tile_1750343315172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d8dc943001000708548d" start="20261114200944 +0000" stop="20261114230000 +0000">
         <title>MTV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6130d8dc943001000708548d/featuredImage_1783323270470.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34500,7 +34620,22 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Un día con papá acaba mal cuando Splinter inscribe al Tanque Tortuga en un combate de destrozos. // Splinter se las ve y se las desea como padre y como sensei para enseñar a sus hijos del Arte del Escondite Ninja</desc>
         <icon src="https://images.pluto.tv/series/666ab3a81c0282001340d04a/tile_1769199121711.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61373f1a12dd9f00077dcd6f" start="20261114190651 +0000" stop="20261114230000 +0000">
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20261114190651 +0000" stop="20261114193124 +0000">
+        <title>Rise of the Teenage Mutant Ninja Turtles: La basura de unos es el tesoro de otros / Día de nieve</title>
+        <desc>Las tortugas intentan hacerse con una pieza de la Armadura Oscura en el desguace de Repo Mantis // Un feroz mutante intenta echar a perder el día de diversión de April y las Tortugas Ninja Mutantes Adolescentes en la nieve.</desc>
+        <icon src="https://images.pluto.tv/series/666ab3a81c0282001340d04a/tile_1769199121711.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20261114193124 +0000" stop="20261114195554 +0000">
+        <title>Rise of the Teenage Mutant Ninja Turtles: De capa y broche / ¡Júpiter Jim a la vista!</title>
+        <desc>April y Sunita van al centro de Nueva York en busca del broche de camuflaje robado a Sunita // Las tortugas conocen a su estrella de ciencia ficción favorita, ¡Júpiter Jim!</desc>
+        <icon src="https://images.pluto.tv/series/666ab3a81c0282001340d04a/tile_1769199121711.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20261114195554 +0000" stop="20261114202028 +0000">
+        <title>Rise of the Teenage Mutant Ninja Turtles: Demencia en el tren de mama</title>
+        <desc>La armadura oscura está casi completa y las tortugas deciden ponerse serias y aceptar con todas sus consecuencias su herencia ninja.</desc>
+        <icon src="https://images.pluto.tv/series/666ab3a81c0282001340d04a/tile_1769199121711.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20261114202028 +0000" stop="20261114230000 +0000">
         <title>Las Tortugas Ninja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34510,7 +34645,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Carly, Sam y Spencer descubren que su tienda favorita de pasteles ya no existe, y tal vez sus recetas se hayan perdido para siempre.</desc>
         <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1781024798391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6181404ef48321000797bc41" start="20261114191600 +0000" stop="20261114230000 +0000">
+    <programme channel="6181404ef48321000797bc41" start="20261114191600 +0000" stop="20261114194100 +0000">
+        <title>iCarly: Las navidades de iCarly</title>
+        <desc>Spencer quema sin querer todos los regalos de Carly. Un ángel de navidad visita a Carly y le enseña exactamente cómo sería su vida si Spencer fuese más normal.</desc>
+        <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1781024798391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6181404ef48321000797bc41" start="20261114194100 +0000" stop="20261114200600 +0000">
+        <title>iCarly: El primer beso</title>
+        <desc>Sam escucha una confesión de Freddie a Carly diciéndole que él nunca ha besado a una chica, y luego cuenta su secreto en el show online. Gibby y Carly entrenan a Spencer para entrar en un equipo de fútbol.</desc>
+        <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1781024798391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6181404ef48321000797bc41" start="20261114200600 +0000" stop="20261114230000 +0000">
         <title>iCarly</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6181404ef48321000797bc41/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34520,7 +34665,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Bloom vuelve a la Tierra de vacaciones y expone sus duda sobre un negocio con la floristería de su madre.</desc>
         <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62568a94ed1f380007b0211f" start="20261114192400 +0000" stop="20261114230000 +0000">
+    <programme channel="62568a94ed1f380007b0211f" start="20261114192400 +0000" stop="20261114195100 +0000">
+        <title>Winx Club: El oscuro secreto de Bloom</title>
+        <desc>Bloom acuerda ir a Torre Nube con Winx Club y con Brandon para buscar respuestas sobre su pasado.</desc>
+        <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62568a94ed1f380007b0211f" start="20261114195100 +0000" stop="20261114201700 +0000">
+        <title>Winx Club: El honor ante todo</title>
+        <desc>Un examen pendiente del Profesor WizGiz preocupa al Winx Club. Bloom encuentra las respuestas del examen por casualidad.</desc>
+        <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62568a94ed1f380007b0211f" start="20261114201700 +0000" stop="20261114230000 +0000">
         <title>Winx Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34530,7 +34685,22 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Snooki &amp; Jwoww intentan salvar sus respectivas relaciones antes de que sea demasiado tarde. Todo el resto de los chicos de Jersey Shore llegan para celebrar el compromiso de Jenni y Roger.</desc>
         <icon src="https://images.pluto.tv/series/5ff5b92d00da4e0013894f84/tile_1769110202932.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ac3d7dc23b400008ae5b5a" start="20261114190200 +0000" stop="20261114230000 +0000">
+    <programme channel="62ac3d7dc23b400008ae5b5a" start="20261114190200 +0000" stop="20261114192600 +0000">
+        <title>Snooki &amp; Jwoww</title>
+        <desc>Una mirada a las dos últimas temporadas de Snooki &amp; Jwoww. Su convivencia, la relación con sus chicos y sus retos personales. Incluye escenas inéditas.</desc>
+        <icon src="https://images.pluto.tv/series/5ff5b92d00da4e0013894f84/tile_1769110202932.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ac3d7dc23b400008ae5b5a" start="20261114192600 +0000" stop="20261114194900 +0000">
+        <title>Snooki &amp; Jwoww</title>
+        <desc>Snooki y Jionni tienen miedo de decir a la madre de Jionni que han alquilado una casa en la playa para el verano. Jwoww intenta mejorar su relación con Roger y quiere llevarle a terapia de pareja.</desc>
+        <icon src="https://images.pluto.tv/series/5ff5b92d00da4e0013894f84/tile_1769110202932.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ac3d7dc23b400008ae5b5a" start="20261114194900 +0000" stop="20261114201300 +0000">
+        <title>Snooki &amp; Jwoww</title>
+        <desc>Jenni entrena sus perros para que sean perros guía y a la vez consigue que Roger vaya a terapia de pareja. Snooki y Jionni hacen las maletas para irse a la playa.</desc>
+        <icon src="https://images.pluto.tv/series/5ff5b92d00da4e0013894f84/tile_1769110202932.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ac3d7dc23b400008ae5b5a" start="20261114201300 +0000" stop="20261114230000 +0000">
         <title>MTV Jerseys</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34540,7 +34710,22 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>El señor Crocker recibe la lámpara de lava mágica, libera al genio y todo el odio a Timmy que acompaña a eso. // Jorgen quiere usar el diente de leche gigante de Timmy como anillo de bodas para su amor: el hada de los dientes.</desc>
         <icon src="https://images.pluto.tv/series/60488e06c56886001ac2d2d2/tile_1769115961391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f626d1a0ac00083a05c5" start="20261114190759 +0000" stop="20261114230000 +0000">
+    <programme channel="6304f626d1a0ac00083a05c5" start="20261114190759 +0000" stop="20261114193259 +0000">
+        <title>Los padrinos mágicos: Lío en el castillo / Remy está de vuelta</title>
+        <desc>¿Has visto alguna vez el interior del castillo de la pecera de Cosmo y Wanda? Timmy tampoco, y eso lo está volviendo loco. // Remy regresa y lo único que quiere hacer es estar con Timmy y su vida fácil.</desc>
+        <icon src="https://images.pluto.tv/series/60488e06c56886001ac2d2d2/tile_1769115961391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f626d1a0ac00083a05c5" start="20261114193259 +0000" stop="20261114195759 +0000">
+        <title>Los padrinos mágicos: Hablando de basura / Timmy TV</title>
+        <desc>Cuando Timmy tiene que sacar la basura, hace lo que haría cualquier niño con hadas. Pide el deseo de que desaparezca. // Timmy se ha convertido sin saberlo en protagonista del reality más popular del Mundo de las Hadas: 'Timmy TV'.</desc>
+        <icon src="https://images.pluto.tv/series/60488e06c56886001ac2d2d2/tile_1769115961391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f626d1a0ac00083a05c5" start="20261114195759 +0000" stop="20261114202359 +0000">
+        <title>Los padrinos mágicos: El mago enmascarado / El gran choque</title>
+        <desc>Timmy desea poderes de súper mago para actuar en la caseta de sus padres en la feria del barrio. // Timmy, Cosmo y Wanda son invitados a una gran fiesta en casa de Cupido, pero Remy y su padrino Juandisimo también están allí.</desc>
+        <icon src="https://images.pluto.tv/series/60488e06c56886001ac2d2d2/tile_1769115961391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f626d1a0ac00083a05c5" start="20261114202359 +0000" stop="20261114230000 +0000">
         <title>Los padrinos mágicos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34550,7 +34735,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>1325. Un joven bereber llamado Ibn Battuta sale de Marruecos en peregrinación a La Meca, como debe hacer todo buen musulmán. Poco sabe él, ni sus padres, sobre el viaje que está a punto de emprender.</desc>
         <icon src="https://images.pluto.tv/series/6245b004ffa0a9001396d14a/tile_1769122441773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63c69c87808b740007599fe1" start="20261114192500 +0000" stop="20261114230000 +0000">
+    <programme channel="63c69c87808b740007599fe1" start="20261114192500 +0000" stop="20261114195300 +0000">
+        <title>Érase una vez… Los exploradores: Los grandes juncos</title>
+        <desc>Cuando Marco Polo llegó a China a finales del siglo XIII quedó especialmente impresionado por cinco barcos gigantes.</desc>
+        <icon src="https://images.pluto.tv/series/6245b004ffa0a9001396d14a/tile_1769122441773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c69c87808b740007599fe1" start="20261114195300 +0000" stop="20261114202200 +0000">
+        <title>Érase una vez… Los exploradores: Vasco de Gama</title>
+        <desc>La historia sucede a finales del siglo XV.  Tanto España  como  Portugal buscan el legendario camino marítimo hacía la India.</desc>
+        <icon src="https://images.pluto.tv/series/6245b004ffa0a9001396d14a/tile_1769122441773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c69c87808b740007599fe1" start="20261114202200 +0000" stop="20261114230000 +0000">
         <title>Érase una vez...</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63c69c87808b740007599fe1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34560,7 +34755,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Los niños de South Park aseguran que han visto al sr. Garrison merodeando por el pueblo. Los ciudadanos están hartos de que el presidente atemorice a sus hijos.</desc>
         <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63d7a8e5a9957100086bfc23" start="20261114191208 +0000" stop="20261114230000 +0000">
+    <programme channel="63d7a8e5a9957100086bfc23" start="20261114191208 +0000" stop="20261114193608 +0000">
+        <title>South Park VOSE: Episodio 2201</title>
+        <desc>Stan Marsh, Kyle Broflovski, Eric Cartman y Kenny McCormick cuatro niños de 9 años. A lo largo de la serie se siguen sus aventuras en South Park, un pequeño pueblo montañoso de Colorado en el que viven el resto de personajes.</desc>
+        <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d7a8e5a9957100086bfc23" start="20261114193608 +0000" stop="20261114200008 +0000">
+        <title>South Park VOSE: Episodio 2202</title>
+        <desc>Stan Marsh, Kyle Broflovski, Eric Cartman y Kenny McCormick cuatro niños de 9 años. A lo largo de la serie se siguen sus aventuras en South Park, un pequeño pueblo montañoso de Colorado en el que viven el resto de personajes.</desc>
+        <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d7a8e5a9957100086bfc23" start="20261114200008 +0000" stop="20261114230000 +0000">
         <title>South Park Versión Original</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34570,7 +34775,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
         <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20261114192518 +0000" stop="20261114230000 +0000">
+    <programme channel="63eb944dc111bc0008fe7021" start="20261114192518 +0000" stop="20261114195518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20261114195518 +0000" stop="20261114202518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20261114202518 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/featuredImage_1761820520888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34580,7 +34795,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
         <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb9495a8b227000841bf64" start="20261114191351 +0000" stop="20261114230000 +0000">
+    <programme channel="63eb9495a8b227000841bf64" start="20261114191351 +0000" stop="20261114194351 +0000">
+        <title>MTV Vergüenza Ajena</title>
+        <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
+        <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb9495a8b227000841bf64" start="20261114194351 +0000" stop="20261114201351 +0000">
+        <title>MTV Vergüenza Ajena</title>
+        <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
+        <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb9495a8b227000841bf64" start="20261114201351 +0000" stop="20261114230000 +0000">
         <title>MTV Vergüenza ajena</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34590,7 +34815,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
         <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6523f672a6c38300088cb807" start="20261114190903 +0000" stop="20261114230000 +0000">
+    <programme channel="6523f672a6c38300088cb807" start="20261114190903 +0000" stop="20261114193718 +0000">
+        <title>El Reino Infantil: Episodio 76</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6523f672a6c38300088cb807" start="20261114193718 +0000" stop="20261114200545 +0000">
+        <title>El Reino Infantil: Episodio 77</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6523f672a6c38300088cb807" start="20261114200545 +0000" stop="20261114230000 +0000">
         <title>El Reino Infantil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6523f672a6c38300088cb807/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34600,7 +34835,22 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Clara empieza a hacer sus ejercicios con las piernas ayudada por Heidi y el abuelo, pero se siente un poco desilusionada porque no avanza todo lo que quisiera y quiere volver a Fráncfort.</desc>
         <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68779a09c691b3f0964127c6" start="20261114190500 +0000" stop="20261114230000 +0000">
+    <programme channel="68779a09c691b3f0964127c6" start="20261114190500 +0000" stop="20261114193200 +0000">
+        <title>Heidi 2D: Clara ya puede andar</title>
+        <desc>Clara consigue mantenerse en pie y empieza a andar pequeños tramos con Heidi. También decide guardar la silla para no tener la tentación de utilizarla.</desc>
+        <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68779a09c691b3f0964127c6" start="20261114193200 +0000" stop="20261114195900 +0000">
+        <title>Heidi 2D: Hasta pronto</title>
+        <desc>Clara continúa haciendo sus ejercicios ella sola y consigue andar doce pasos seguidos. Su padre anuncia que va a visitarlas con la abuelita dentro de poco, aunque todavía no saben que Clara puede andar.</desc>
+        <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68779a09c691b3f0964127c6" start="20261114195900 +0000" stop="20261114202600 +0000">
+        <title>Heidi 2D: Hacia la montaña</title>
+        <desc>Heidi acaba de cumplir cinco años. Tenía apenas uno cuando sus padres murieron y desde entonces vive con su tía Dete, hermana de su madre, aunque la mayor parte de su vida ha estado al cuidado de personas extrañas, como la vieja Úrsula.</desc>
+        <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68779a09c691b3f0964127c6" start="20261114202600 +0000" stop="20261114230000 +0000">
         <title>Heidi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/featuredImage-1757319877.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34610,7 +34860,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Thomas &amp; Friends T22EP11</desc>
         <icon src="https://images.pluto.tv/series/692ed359a48fba0b7e55102d/tile_1764676446523.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6888928eb52fb742416673d2" start="20261114191538 +0000" stop="20261114230000 +0000">
+    <programme channel="6888928eb52fb742416673d2" start="20261114191538 +0000" stop="20261114193941 +0000">
+        <title>Thomas &amp; Friends</title>
+        <desc>Thomas &amp; Friends T22EP12</desc>
+        <icon src="https://images.pluto.tv/series/692ed359a48fba0b7e55102d/tile_1764676446523.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6888928eb52fb742416673d2" start="20261114193941 +0000" stop="20261114200345 +0000">
+        <title>Thomas &amp; Friends</title>
+        <desc>Thomas &amp; Friends T22EP13</desc>
+        <icon src="https://images.pluto.tv/series/692ed359a48fba0b7e55102d/tile_1764676446523.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6888928eb52fb742416673d2" start="20261114200345 +0000" stop="20261114230000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6888928eb52fb742416673d2/featuredImage_1765806188472.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34620,7 +34880,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Dos Papás Pitufo</desc>
         <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1790722804386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d27949793c71d988ca624c" start="20261114191827 +0000" stop="20261114230000 +0000">
+    <programme channel="68d27949793c71d988ca624c" start="20261114191827 +0000" stop="20261114194540 +0000">
+        <title>Los Pitufos</title>
+        <desc>Viaje Al Pitufo De La Tierra / La Novia De Escrúpulo</desc>
+        <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1790722804386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d27949793c71d988ca624c" start="20261114194540 +0000" stop="20261114201343 +0000">
+        <title>Los Pitufos</title>
+        <desc>La Nube De Tontín / El Dia Del Amor</desc>
+        <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1790722804386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d27949793c71d988ca624c" start="20261114201343 +0000" stop="20261114230000 +0000">
         <title>Los Pitufos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d27949793c71d988ca624c/featuredImage_1760370849906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34630,7 +34900,22 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Tras hablar de chicos, Frankie se crea un novio: HooDude, en el laboratorio de su padre, y lo enseña en clase. Sus amigas le recuerdan que no necesita novio para encajar. ¿Quién le dará la noticia a HooDude… o mejor HooDumped?</desc>
         <icon src="https://images.pluto.tv/series/6943c1280c94b060781c6345/tile_1766048041742.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e8fe3bcba140ddfe903677" start="20261114190920 +0000" stop="20261114230000 +0000">
+    <programme channel="68e8fe3bcba140ddfe903677" start="20261114190920 +0000" stop="20261114192957 +0000">
+        <title>Monster High Webisodes</title>
+        <desc>Ghoulia está triste: no puede ir a NecroCon ni ganar Dead Fast – Issue #0. Sueña que el Shadow Poacher lo roba; canaliza los poderes de Dead Fast y lo salva. Al despertar, el cómic está en su regazo. Tener buenas amigas ayuda.</desc>
+        <icon src="https://images.pluto.tv/series/6943c1280c94b060781c6345/tile_1766048041742.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fe3bcba140ddfe903677" start="20261114192957 +0000" stop="20261114195204 +0000">
+        <title>Monster High Webisodes</title>
+        <desc>Frankie se viene abajo cuando descubre que en el insti corre el rumor de que está saliendo con varios monstruos a la vez. Parece que la "chismosa espectral" está detrás de todo esto.</desc>
+        <icon src="https://images.pluto.tv/series/6943c1280c94b060781c6345/tile_1766048041742.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fe3bcba140ddfe903677" start="20261114195204 +0000" stop="20261114201306 +0000">
+        <title>Monster High Webisodes</title>
+        <desc>La horrorosa actitud de Nefera amenaza con destruir el equipo de asustadoras justo ahora que se están preparando para las Asustafinales</desc>
+        <icon src="https://images.pluto.tv/series/6943c1280c94b060781c6345/tile_1766048041742.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fe3bcba140ddfe903677" start="20261114201306 +0000" stop="20261114230000 +0000">
         <title>Monster High</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/featuredImage_1761735230690.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34640,7 +34925,17 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>An unexpected arrival puts Rhydian’s leadership skills to the test in a matter of life and death.</desc>
         <icon src="https://images.pluto.tv/series/6ab54f25ff94431f8b266c78/tile_1790267338228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69fc906b90dc413f536059a1" start="20261114192418 +0000" stop="20261114230000 +0000">
+    <programme channel="69fc906b90dc413f536059a1" start="20261114192418 +0000" stop="20261114195200 +0000">
+        <title>Dance Academy, Season 2</title>
+        <desc>Fighting shock and numbness after a sudden tragedy, Tara is struggling to find her motivation as a dancer. Meanwhile, Abigail attempts to block her grief by immersing herself in a prestigious audition for a contemporary company tour.</desc>
+        <icon src="https://images.pluto.tv/series/6ab6618a2cfd341eb531a64f/tile_1790337419443.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69fc906b90dc413f536059a1" start="20261114195200 +0000" stop="20261114201942 +0000">
+        <title>Dance Academy, Season 2</title>
+        <desc>Sammy decides to alter his Prix de Fonteyn solo one day before the start of the International Round, while Tara encounters a new-old nemesis in the girls’ competition.</desc>
+        <icon src="https://images.pluto.tv/series/6ab6618a2cfd341eb531a64f/tile_1790337419443.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69fc906b90dc413f536059a1" start="20261114201942 +0000" stop="20261114230000 +0000">
         <title>H2O &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69fc906b90dc413f536059a1/featuredImage_1780583615660.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34650,7 +34945,12 @@ Estrella Invitada: Stephen Fry.</desc>
         <desc>Una nueva palabra surge en la mente de Pippi, y su sonido la fascina por completo: «spunk».  Se deshace en su boca mejor que un pastel de desayuno. Pero no sabe qué significa «spunk». Así que emprende la búsqueda de la misteriosa criatura.</desc>
         <icon src="https://images.pluto.tv/series/6a3d0601f667431af60d5069/tile_1782384130650.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a0c25fe09705ebdf7e4599a" start="20261114192908 +0000" stop="20261114230000 +0000">
+    <programme channel="6a0c25fe09705ebdf7e4599a" start="20261114192908 +0000" stop="20261114200238 +0000">
+        <title>Pippi Calzaslargas</title>
+        <desc>Los dos delincuentes, Donner-Carl y Blom, roban la maleta de Pippi, que contiene su oro, de la villa Kunterbunt. Pippi no se da cuenta de nada porque en ese momento está en el ático buscando el antiguo balón de su padre.</desc>
+        <icon src="https://images.pluto.tv/series/6a3d0601f667431af60d5069/tile_1782384130650.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a0c25fe09705ebdf7e4599a" start="20261114200238 +0000" stop="20261114230000 +0000">
         <title>Pippi Calzaslargas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a0c25fe09705ebdf7e4599a/featuredImage_1780494508788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34662,7 +34962,21 @@ Estrella Invitada: Stephen Fry.</desc>
 Un rayo de sol + Cumpleaños Oso</desc>
         <icon src="https://images.pluto.tv/series/6a831548d8618839a605301f/tile_1786975562492.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a31544f2c1c785c1138dbb1" start="20261114192055 +0000" stop="20261114230000 +0000">
+    <programme channel="6a31544f2c1c785c1138dbb1" start="20261114192055 +0000" stop="20261114194520 +0000">
+        <title>Mr. Bean Animated</title>
+        <desc>Mr Bean pierde el control de una plaga y hace una montaña con un grano de arena.
+
+El topo + Obras</desc>
+        <icon src="https://images.pluto.tv/series/6a831548d8618839a605301f/tile_1786975562492.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a31544f2c1c785c1138dbb1" start="20261114194520 +0000" stop="20261114200944 +0000">
+        <title>Mr. Bean Animated</title>
+        <desc>Bean se encuentra con más de un salto en su paso.
+
+El sofá + Tesoro.</desc>
+        <icon src="https://images.pluto.tv/series/6a831548d8618839a605301f/tile_1786975562492.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a31544f2c1c785c1138dbb1" start="20261114200944 +0000" stop="20261114230000 +0000">
         <title>Mr. Bean</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/featuredImage_1788185027046.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34672,12 +34986,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Gazpacho de mango con pescaíto frito con Nerea Alias</desc>
         <icon src="https://images.pluto.tv/series/6ada143a73415cc4aef9430c/tile_1792676945229.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1acdaa8ba90f0007d5e760" start="20261114192401 +0000" stop="20261114201203 +0000">
-        <title>A Bocados Verano</title>
-        <desc>Cordero al chilindrón con caracoles con Martin del Iturri</desc>
-        <icon src="https://images.pluto.tv/series/6ada143a73415cc4aef9430c/tile_1792676945229.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1acdaa8ba90f0007d5e760" start="20261114201203 +0000" stop="20261114230000 +0000">
+    <programme channel="5f1acdaa8ba90f0007d5e760" start="20261114192401 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Cocina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34687,12 +34996,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Segunda parte del viaje de Frank y su equipo por la selva de Costa Rica, en la que sigue encontrando animales de lo más variado, desde un puercoespín mexicano hasta un vampiro.</desc>
         <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="600ae6a78d801e0007117d21" start="20261114190639 +0000" stop="20261114200339 +0000">
-        <title>Frank de la jungla: Un Río llamado Mekong</title>
-        <desc>Desde hace 240 millones de años es el rey de los ríos y lagos de agua estancada. El cocodrilo es el soberano que gobierna la transición entre el agua y la tierra. Frank recorre los ríos de Tailandia en busca del cocodrilo en estado salvaje.</desc>
-        <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="600ae6a78d801e0007117d21" start="20261114200339 +0000" stop="20261114230000 +0000">
+    <programme channel="600ae6a78d801e0007117d21" start="20261114190639 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Animales</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34702,12 +35006,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>En Las Vegas, Bellagio acoge el WPT, donde un jugador de póquer ganará más de un millón de dólares. Parte 3 de 3.</desc>
         <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1776174846069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6080381ab7c9ea00074ec64c" start="20261114192900 +0000" stop="20261114201500 +0000">
-        <title>World Poker Tour: Borgata Poker Classic - Parte 1</title>
-        <desc>El WPT regresa a la costa este para otro espectacular torneo de póquer en el Borgata Hotel Casino and Spa. Parte 1 de 3.</desc>
-        <icon src="https://images.pluto.tv/series/609933f05ff04300139c2c54/tile_1776174846069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6080381ab7c9ea00074ec64c" start="20261114201500 +0000" stop="20261114230000 +0000">
+    <programme channel="6080381ab7c9ea00074ec64c" start="20261114192900 +0000" stop="20261114230000 +0000">
         <title>World Poker Tour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34717,17 +35016,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
         <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile_1784585584601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d3583ef310610007fb02b1" start="20261114193000 +0000" stop="20261114200000 +0000">
-        <title>Noticias de última hora</title>
-        <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
-        <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile_1784585584601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d3583ef310610007fb02b1" start="20261114200000 +0000" stop="20261114203000 +0000">
-        <title>Noticias de última hora</title>
-        <desc>El canal de noticias más visto en Europa, en español. Sigue la actualidad informativa las 24 horas del día, 7 días a la semana con el único medio de comunicación internacional con una perspectiva europea.</desc>
-        <icon src="https://images.pluto.tv/series/60decd16a7288e00078fb229/tile_1784585584601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d3583ef310610007fb02b1" start="20261114203000 +0000" stop="20261114230000 +0000">
+    <programme channel="60d3583ef310610007fb02b1" start="20261114193000 +0000" stop="20261114230000 +0000">
         <title>Euronews</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34737,17 +35026,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
         <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile_1784261402438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dd6b1da79e4d0007309455" start="20261114193000 +0000" stop="20261114200000 +0000">
-        <title>Naturaleza y vida salvaje</title>
-        <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile_1784261402438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60dd6b1da79e4d0007309455" start="20261114200000 +0000" stop="20261114203000 +0000">
-        <title>Naturaleza y vida salvaje</title>
-        <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
-        <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile_1784261402438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60dd6b1da79e4d0007309455" start="20261114203000 +0000" stop="20261114230000 +0000">
+    <programme channel="60dd6b1da79e4d0007309455" start="20261114193000 +0000" stop="20261114230000 +0000">
         <title>Nature Time</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34757,12 +35036,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Las ventas de congelados en España alcanzaron el pasado año un valor de casi 5.000 millones de euros y siguen creciendo debido a la crisis del Covid-19 .En un segundo reportaje, 'En el punto de mira' investiga las diferentes aguas de España.</desc>
         <icon src="https://images.pluto.tv/series/61c0662ef30167001a631794/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61922be835f3910007fc58f6" start="20261114193500 +0000" stop="20261114204700 +0000">
-        <title>En el punto de mira: Covid 19: La casa ideal</title>
-        <desc>'En el punto de mira' ha acudido a diferentes puntos de España para ver las casas en las que han pasado muchos ciudadanos la cuarentena y, sobre todo, cómo se van a adaptar las nuevas casas al coronavirus.</desc>
-        <icon src="https://images.pluto.tv/series/61c0662ef30167001a631794/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="61922be835f3910007fc58f6" start="20261114204700 +0000" stop="20261114230000 +0000">
+    <programme channel="61922be835f3910007fc58f6" start="20261114193500 +0000" stop="20261114230000 +0000">
         <title>En el punto de mira</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61922be835f3910007fc58f6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34772,12 +35046,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Spying on Hitler's Army: The Secret Recordings cuenta cómo se robaron las confesiones, cómo cambiaron el resultado de la guerra y cómo revelan, con más detalles perturbadores que nunca, lo que sentían y pensaban los combatientes alemanes.</desc>
         <icon src="https://images.pluto.tv/series/66e3ecc8a1c892001361244a/tile_1769197321367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61cd7b49543066000713b620" start="20261114195208 +0000" stop="20261114205408 +0000">
-        <title>Hijos de Tesla</title>
-        <desc>Seguimos el vivo legado de Nikola Tesla mediante las admirables historias de cinco inventores y sus descubrimientos. Invenciones que consiguen casi eclipsar las del gran mentor; presentamos a los hijos de Tesla.</desc>
-        <icon src="https://images.pluto.tv/series/614aee9faeae500014d86bee/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="61cd7b49543066000713b620" start="20261114205408 +0000" stop="20261114230000 +0000">
+    <programme channel="61cd7b49543066000713b620" start="20261114195208 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Historia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61cd7b49543066000713b620/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34787,12 +35056,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
         <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="622f42b831233300078658cc" start="20261114194430 +0000" stop="20261114205030 +0000">
-        <title>Aragoneses por el mundo: Nueva York</title>
-        <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
-        <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="622f42b831233300078658cc" start="20261114205030 +0000" stop="20261114230000 +0000">
+    <programme channel="622f42b831233300078658cc" start="20261114194430 +0000" stop="20261114230000 +0000">
         <title>Ciudadanos por el mundo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/622f42b831233300078658cc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34802,22 +35066,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>La actriz Rumer Willis invita a MTV a su casa de Los Ángeles. Visitamos el impresionante piso de Jesse Metcalfe en California. Y la televisiva Jenna Jameson nos acoge en su agradable y sexy casa de Las Vegas.</desc>
         <icon src="https://images.pluto.tv/series/67b466ca96446070bdf414c8/tile_1787646601584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64db2e0835425100080f2f5a" start="20261114190956 +0000" stop="20261114193453 +0000">
-        <title>MTV Cribs</title>
-        <desc>La actriz de Pretty Little Liars Janel Parrish nos muestra su moderna casa. El jugador de baloncesto Scotty Pippen Jr nos enseña su elegante piso californiano. Y conoceremos el caprichoso mundo de Dita Von Teese en su casa de Los Angeles.</desc>
-        <icon src="https://images.pluto.tv/series/67b466ca96446070bdf414c8/tile_1787646601584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64db2e0835425100080f2f5a" start="20261114193453 +0000" stop="20261114195909 +0000">
-        <title>MTV Cribs</title>
-        <desc>Big Sean nos invita a entrar en su mansión de Los Ángeles, única en su género y de estilo zen, y luego se pone a la altura de TJ Lavin para mostrarnos su remodelado apartamento de soltero convertido en un hogar feliz en Las Vegas.</desc>
-        <icon src="https://images.pluto.tv/series/67b466ca96446070bdf414c8/tile_1787646601584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64db2e0835425100080f2f5a" start="20261114195909 +0000" stop="20261114202440 +0000">
-        <title>MTV Cribs</title>
-        <desc>Visitamos al campeón de la NBA Nick Young y a su familia en su elegante casa de Los Ángeles, luego nos dirigimos a Calabasas para pasar el rato con Jordyn Woods, y terminamos el recorrido con la invicta ama de casa Martha Stewart.</desc>
-        <icon src="https://images.pluto.tv/series/67b466ca96446070bdf414c8/tile_1787646601584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64db2e0835425100080f2f5a" start="20261114202440 +0000" stop="20261114230000 +0000">
+    <programme channel="64db2e0835425100080f2f5a" start="20261114190956 +0000" stop="20261114230000 +0000">
         <title>Pluto TV Diseño</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34837,12 +35086,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Quarterfinal from July 6, 2018.</desc>
         <icon src="https://images.pluto.tv/series/67b36b6b96446070bd3cc3a3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20261114194800 +0000" stop="20261114214600 +0000">
-        <title>2018 FIFA World Cup</title>
-        <desc>From June 23, 2018.</desc>
-        <icon src="https://images.pluto.tv/series/67b36b6b96446070bd3cc3a3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20261114214600 +0000" stop="20261114230000 +0000">
+    <programme channel="660c29f80cd4630008f1547c" start="20261114194800 +0000" stop="20261114230000 +0000">
         <title>FIFA+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/featuredImage_1750064806182.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34852,12 +35096,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
         <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529af/tile_1747811530626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c45c0de7f5e80008b82005" start="20261114200000 +0000" stop="20261114210000 +0000">
-        <title>Top stories from CNN</title>
-        <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
-        <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529af/tile_1747811530626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66c45c0de7f5e80008b82005" start="20261114210000 +0000" stop="20261114230000 +0000">
+    <programme channel="66c45c0de7f5e80008b82005" start="20261114200000 +0000" stop="20261114230000 +0000">
         <title>CNN Headlines International</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/featuredImage_1775159727857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34867,22 +35106,17 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Double Trouble 6: Group B, Day Two.</desc>
         <icon src="https://images.pluto.tv/series/67e2e1e2e8cf626542920000/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67164414e40c4a00087f450d" start="20261114193000 +0000" stop="20261114233000 +0000">
-        <title>Darts</title>
-        <desc>Double Trouble 6: Finals Night.</desc>
-        <icon src="https://images.pluto.tv/series/67e2e1e2e8cf626542920000/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="67164414e40c4a00087f450d" start="20261114193000 +0000" stop="20261114230000 +0000">
+        <title>MODUS Super Series Darts</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/67164414e40c4a00087f450d/featuredImage_1732095042126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="67517f923a61d40008c451f0" start="20261114182800 +0000" stop="20261114192100 +0000">
         <title>La Segunda Guerra Mundial en dron</title>
         <desc>Expertos militares e historiadores recorren Europa para visitar lugares significativos de la guerra y examinar información relacionada con estos sitios.</desc>
         <icon src="https://images.pluto.tv/series/6aad44baa586c4b3c9f14ba6/tile_1789740219129.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517f923a61d40008c451f0" start="20261114192100 +0000" stop="20261114201400 +0000">
-        <title>La Segunda Guerra Mundial en dron</title>
-        <desc>Expertos militares e historiadores recorren Europa para visitar lugares significativos de la guerra y examinar información relacionada con estos sitios.</desc>
-        <icon src="https://images.pluto.tv/series/6aad44baa586c4b3c9f14ba6/tile_1789740219129.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67517f923a61d40008c451f0" start="20261114201400 +0000" stop="20261114230000 +0000">
+    <programme channel="67517f923a61d40008c451f0" start="20261114192100 +0000" stop="20261114230000 +0000">
         <title>Historia y Vida</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67517f923a61d40008c451f0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34892,17 +35126,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
         <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517fae5534bb0008187997" start="20261114193000 +0000" stop="20261114200000 +0000">
-        <title>Actualidad 360</title>
-        <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
-        <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67517fae5534bb0008187997" start="20261114200000 +0000" stop="20261114203000 +0000">
-        <title>Actualidad 360</title>
-        <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
-        <icon src="https://images.pluto.tv/series/6780f0f5dd7846fe543f6324/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67517fae5534bb0008187997" start="20261114203000 +0000" stop="20261114230000 +0000">
+    <programme channel="67517fae5534bb0008187997" start="20261114193000 +0000" stop="20261114230000 +0000">
         <title>Actualidad 360</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67517fae5534bb0008187997/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34912,17 +35136,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
         <icon src="https://images.pluto.tv/series/67ab10e99a300a000881ed3b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67921b873de7c8cf94233f52" start="20261114193000 +0000" stop="20261114200000 +0000">
-        <title>UFC</title>
-        <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
-        <icon src="https://images.pluto.tv/series/67ab10e99a300a000881ed3b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67921b873de7c8cf94233f52" start="20261114200000 +0000" stop="20261114203000 +0000">
-        <title>UFC</title>
-        <desc>Las mejores peleas, los mejores luchadores y los momentos más destacados de la principal organización de MMA del mundo.</desc>
-        <icon src="https://images.pluto.tv/series/67ab10e99a300a000881ed3b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67921b873de7c8cf94233f52" start="20261114203000 +0000" stop="20261114230000 +0000">
+    <programme channel="67921b873de7c8cf94233f52" start="20261114193000 +0000" stop="20261114230000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34932,12 +35146,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Disfruta de los mejores goles de la década de los 90</desc>
         <icon src="https://images.pluto.tv/series/6a85a27ce6388a93bdf41a15/tile_1787142781333.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6793ac47f5c74bff95d18a99" start="20261114190749 +0000" stop="20261114205739 +0000">
-        <title>LaLiga</title>
-        <desc>Disfruta del partido de la Liga 2026-27 entre Betis y Barça</desc>
-        <icon src="https://images.pluto.tv/series/6a85a27ce6388a93bdf41a15/tile_1787142781333.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6793ac47f5c74bff95d18a99" start="20261114205739 +0000" stop="20261114230000 +0000">
+    <programme channel="6793ac47f5c74bff95d18a99" start="20261114190749 +0000" stop="20261114230000 +0000">
         <title>Barça 24H</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/featuredImage_1793609335793.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34947,17 +35156,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
         <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20261114193000 +0000" stop="20261114200000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20261114200000 +0000" stop="20261114203000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20261114203000 +0000" stop="20261114230000 +0000">
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20261114193000 +0000" stop="20261114230000 +0000">
         <title>Metal Rocks</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/featuredImage_1756372276884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34967,22 +35166,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Chelsea participa en una carrera de bicicletas, pero teme pedalear sin ruedines. En Dreamtopia, con la ayuda de Barbie, aprende a confiar en sí misma y descubre que la verdadera magia está en creer en uno mismo.</desc>
         <icon src="https://images.pluto.tv/series/6936c09082bb3615052d03a7/tile_1765274991784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="688892172928933015abe479" start="20261114191230 +0000" stop="20261114193453 +0000">
-        <title>Barbie: Vlogger</title>
-        <desc>Para nuestros padres / Reto de la empatía. Sorpresa de cumpleaños / Ken me maquilla / Mi habitación / Cómo hacer un peinado de unicornio / Reto de la pizza con Ken / ¿Qué hay en mi bolso? / Solo estaba bromeando / ¡Ayúdame a rediseñar mi casa!</desc>
-        <icon src="https://images.pluto.tv/series/6930031882bb361505fd2a13/tile_1764754201707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="688892172928933015abe479" start="20261114193453 +0000" stop="20261114195807 +0000">
-        <title>Barbie Dreamtopia</title>
-        <desc>Chelsea aprende el valor de la diversidad cuando Barbie Reina Aprendiz crea tres clones idénticos a ella.</desc>
-        <icon src="https://images.pluto.tv/series/693058e0779bf41d1d160bfc/tile_1764776200224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="688892172928933015abe479" start="20261114195807 +0000" stop="20261114202121 +0000">
-        <title>Barbie Dreamtopia</title>
-        <desc>Chelsea ayuda a Mantequilla de Cacahuete a reunirse con Mermelada en la fiesta de las Dulces Parejas. ¡Una dulce aventura en Dreamtopia!</desc>
-        <icon src="https://images.pluto.tv/series/693058e0779bf41d1d160bfc/tile_1764776200224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="688892172928933015abe479" start="20261114202121 +0000" stop="20261114230000 +0000">
+    <programme channel="688892172928933015abe479" start="20261114191230 +0000" stop="20261114230000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/688892172928933015abe479/featuredImage_1765806030713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34992,12 +35176,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>James y David quieren una casa con más espacio, luz natural y proximidad al centro de la ciudad. Las exigencias de los dos, sin embargo, impiden que Drew y Jonathan se ajusten al presupuesto y a los plazos dados.</desc>
         <icon src="https://images.pluto.tv/series/6985aee371e7de966edf1845/tile_1770368740253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="690dd10a37b131228d76d5b1" start="20261114192400 +0000" stop="20261114201700 +0000">
-        <title>La casa de mis sueños</title>
-        <desc>Verónica y Andrew están cansados de su apartamento apretado. La baja por maternidad de Verónica se está acabando, y la pareja tiene poco tiempo para encontrar la casa perfecta para su joven familia.</desc>
-        <icon src="https://images.pluto.tv/series/6985aee371e7de966edf1845/tile_1770368740253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="690dd10a37b131228d76d5b1" start="20261114201700 +0000" stop="20261114230000 +0000">
+    <programme channel="690dd10a37b131228d76d5b1" start="20261114192400 +0000" stop="20261114230000 +0000">
         <title>El Mueble</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/featuredImage_1764966923664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -35008,21 +35187,16 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <icon src="https://images.pluto.tv/series/69712b01b06fa36c2ba2d22e/tile_1785525482107.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="69148c470155f9b136b5d856" start="20261114200000 +0000" stop="20261114230000 +0000">
-        <title>Snooker 900</title>
-        <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
-        <icon src="https://images.pluto.tv/series/69172311f17cb9c145a8129b/tile_1786097768326.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Pluto TV Snooker 900</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/69148c470155f9b136b5d856/featuredImage_1763054843488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="696e02423b9ce349c90edef9" start="20261114183900 +0000" stop="20261114194000 +0000">
         <title>FIA World Rally Championship</title>
         <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1786983238309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20261114194000 +0000" stop="20261114204000 +0000">
-        <title>FIA World Rally Championship</title>
-        <desc>Catch all the action from the Rallye Monte-Carlo 2020.</desc>
-        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1786983238309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20261114204000 +0000" stop="20261114230000 +0000">
+    <programme channel="696e02423b9ce349c90edef9" start="20261114194000 +0000" stop="20261114230000 +0000">
         <title>Rally TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/featuredImage_1770892063713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -35032,17 +35206,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
         <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20261114193000 +0000" stop="20261114200000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20261114200000 +0000" stop="20261114203000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20261114203000 +0000" stop="20261114230000 +0000">
+    <programme channel="69b3db5d61e8e298254c7108" start="20261114193000 +0000" stop="20261114230000 +0000">
         <title>Space Live</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/featuredImage_1775061733929.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -35052,17 +35216,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Dominance FC TV el mejor contenido de MMA con los mejores luchadores, incluyendo eventos en directo de Airtox Dominance Fighting Championship, todas las noches a partir de las 22:00.</desc>
         <icon src="https://images.pluto.tv/series/69f9dbd7df0b6d462cfaad1d/tile_1777982469601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69f9c50202b6c1c00a213519" start="20261114190054 +0000" stop="20261114193054 +0000">
-        <title>Dominance FC TV - Daytime Cards</title>
-        <desc>Dominance FC TV el mejor contenido de MMA con los mejores luchadores, incluyendo eventos en directo de Airtox Dominance Fighting Championship, todas las noches a partir de las 22:00.</desc>
-        <icon src="https://images.pluto.tv/series/69f9dbd7df0b6d462cfaad1d/tile_1777982469601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69f9c50202b6c1c00a213519" start="20261114193054 +0000" stop="20261114200054 +0000">
-        <title>Dominance FC TV - Daytime Cards</title>
-        <desc>Dominance FC TV el mejor contenido de MMA con los mejores luchadores, incluyendo eventos en directo de Airtox Dominance Fighting Championship, todas las noches a partir de las 22:00.</desc>
-        <icon src="https://images.pluto.tv/series/69f9dbd7df0b6d462cfaad1d/tile_1777982469601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69f9c50202b6c1c00a213519" start="20261114200054 +0000" stop="20261114230000 +0000">
+    <programme channel="69f9c50202b6c1c00a213519" start="20261114190054 +0000" stop="20261114230000 +0000">
         <title>Dominance FC TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/featuredImage_1777976664055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -35072,17 +35226,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Un canal en directo, todo el día, con el mejor tenis. Disfruta de cientos de horas de contenido incluyendo partidos en directo, destacados, partidos clásicos, contenido exclusivo, documentales y más, trayendo a los fans más cerca del deporte que nunca.</desc>
         <icon src="https://images.pluto.tv/series/6ac8bebd505ec14142de0b08/tile_1791540967122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a43c8e19d516ba88f728627" start="20261114192215 +0000" stop="20261114195215 +0000">
-        <title>Tennis Channel</title>
-        <desc>Un canal en directo, todo el día, con el mejor tenis. Disfruta de cientos de horas de contenido incluyendo partidos en directo, destacados, partidos clásicos, contenido exclusivo, documentales y más, trayendo a los fans más cerca del deporte que nunca.</desc>
-        <icon src="https://images.pluto.tv/series/6ac8bebd505ec14142de0b08/tile_1791540967122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a43c8e19d516ba88f728627" start="20261114195215 +0000" stop="20261114202215 +0000">
-        <title>Tennis Channel</title>
-        <desc>Un canal en directo, todo el día, con el mejor tenis. Disfruta de cientos de horas de contenido incluyendo partidos en directo, destacados, partidos clásicos, contenido exclusivo, documentales y más, trayendo a los fans más cerca del deporte que nunca.</desc>
-        <icon src="https://images.pluto.tv/series/6ac8bebd505ec14142de0b08/tile_1791540967122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a43c8e19d516ba88f728627" start="20261114202215 +0000" stop="20261114230000 +0000">
+    <programme channel="6a43c8e19d516ba88f728627" start="20261114192215 +0000" stop="20261114230000 +0000">
         <title>Tennis Channel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/featuredImage_1782827298629.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -35097,17 +35241,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>El lugar de toda la música de los 80s como Pop, New Wave, Glam Metal, y todas las superestrellas de los 80, como Michael Jackson, Madonna, Prince, Whitney Houston, George Michael, Tina Turner, Phil Collins y muchos más.</desc>
         <icon src="https://images.pluto.tv/series/6a9a7d4cd6f47f9aa76b99a2/tile_1788509518129.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a846c44496b635ad62aa13e" start="20261114193000 +0000" stop="20261114200000 +0000">
-        <title>That's 80s</title>
-        <desc>El lugar de toda la música de los 80s como Pop, New Wave, Glam Metal, y todas las superestrellas de los 80, como Michael Jackson, Madonna, Prince, Whitney Houston, George Michael, Tina Turner, Phil Collins y muchos más.</desc>
-        <icon src="https://images.pluto.tv/series/6a9a7d4cd6f47f9aa76b99a2/tile_1788509518129.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a846c44496b635ad62aa13e" start="20261114200000 +0000" stop="20261114203000 +0000">
-        <title>That's 80s</title>
-        <desc>El lugar de toda la música de los 80s como Pop, New Wave, Glam Metal, y todas las superestrellas de los 80, como Michael Jackson, Madonna, Prince, Whitney Houston, George Michael, Tina Turner, Phil Collins y muchos más.</desc>
-        <icon src="https://images.pluto.tv/series/6a9a7d4cd6f47f9aa76b99a2/tile_1788509518129.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a846c44496b635ad62aa13e" start="20261114203000 +0000" stop="20261114230000 +0000">
+    <programme channel="6a846c44496b635ad62aa13e" start="20261114193000 +0000" stop="20261114230000 +0000">
         <title>That's 80s</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a846c44496b635ad62aa13e/featuredImage_1790781375896.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -35117,17 +35251,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>El canal perfecto para los que crecieron en la era digital, con sonidos icónicos de los 90s y 00s! Incluye clásicos de Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga y muchos más.</desc>
         <icon src="https://images.pluto.tv/series/6a9e84b4ff94431f8bc2430c/tile_1788774793698.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a846cb6840f7d654710df00" start="20261114193000 +0000" stop="20261114200000 +0000">
-        <title>That's 90s00s</title>
-        <desc>El canal perfecto para los que crecieron en la era digital, con sonidos icónicos de los 90s y 00s! Incluye clásicos de Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga y muchos más.</desc>
-        <icon src="https://images.pluto.tv/series/6a9e84b4ff94431f8bc2430c/tile_1788774793698.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a846cb6840f7d654710df00" start="20261114200000 +0000" stop="20261114203000 +0000">
-        <title>That's 90s00s</title>
-        <desc>El canal perfecto para los que crecieron en la era digital, con sonidos icónicos de los 90s y 00s! Incluye clásicos de Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga y muchos más.</desc>
-        <icon src="https://images.pluto.tv/series/6a9e84b4ff94431f8bc2430c/tile_1788774793698.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a846cb6840f7d654710df00" start="20261114203000 +0000" stop="20261114230000 +0000">
+    <programme channel="6a846cb6840f7d654710df00" start="20261114193000 +0000" stop="20261114230000 +0000">
         <title>That's 90s00s</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a846cb6840f7d654710df00/featuredImage_1790842102809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -35137,17 +35261,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>El destino definitivo para los amantes del rock, incluyendo desde Blues y Grunge hasta Soft Rock y Heavy Metal. Incluye clásicos como Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana y muchos más.</desc>
         <icon src="https://images.pluto.tv/series/6a9e8518fad332654502d9d1/tile_1788774025312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a846ccd99e7db5e8a1d9b5f" start="20261114193000 +0000" stop="20261114200000 +0000">
-        <title>That's Rock</title>
-        <desc>El destino definitivo para los amantes del rock, incluyendo desde Blues y Grunge hasta Soft Rock y Heavy Metal. Incluye clásicos como Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana y muchos más.</desc>
-        <icon src="https://images.pluto.tv/series/6a9e8518fad332654502d9d1/tile_1788774025312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a846ccd99e7db5e8a1d9b5f" start="20261114200000 +0000" stop="20261114203000 +0000">
-        <title>That's Rock</title>
-        <desc>El destino definitivo para los amantes del rock, incluyendo desde Blues y Grunge hasta Soft Rock y Heavy Metal. Incluye clásicos como Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana y muchos más.</desc>
-        <icon src="https://images.pluto.tv/series/6a9e8518fad332654502d9d1/tile_1788774025312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a846ccd99e7db5e8a1d9b5f" start="20261114203000 +0000" stop="20261114230000 +0000">
+    <programme channel="6a846ccd99e7db5e8a1d9b5f" start="20261114193000 +0000" stop="20261114230000 +0000">
         <title>That's Rock</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a846ccd99e7db5e8a1d9b5f/featuredImage_1790781023873.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -35157,17 +35271,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Visita al asador O Pazo en Padrón, Galicia, con Estrella Michelin. Ofrece marisco, chuletón de vaca rubia gallega y pimientos de Padrón. El resultado fue una grata sorpresa.</desc>
         <icon src="https://images.pluto.tv/series/6aaa80884996e40ab21a4ea5/tile_1789558921398.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a9fc2af17c0d8c7a37697d0" start="20261114190658 +0000" stop="20261114194538 +0000">
-        <title>Cenando con Pablo</title>
-        <desc>Visita al Restaurante La Choza de Manuela en Bormujos, Sevilla, famoso por atender a miles de personas diarias con 100 empleados y platos variados a precios muy económicos.</desc>
-        <icon src="https://images.pluto.tv/series/6aaa80884996e40ab21a4ea5/tile_1789558921398.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a9fc2af17c0d8c7a37697d0" start="20261114194538 +0000" stop="20261114202001 +0000">
-        <title>Cenando con Pablo</title>
-        <desc>Pablo visita Mugaritz, el peculiar restaurante 2 Estrellas Michelin de Andoni Luis Aduriz en el País Vasco, y nos cuenta si realmente merece la pena.</desc>
-        <icon src="https://images.pluto.tv/series/6aaa80884996e40ab21a4ea5/tile_1789558921398.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a9fc2af17c0d8c7a37697d0" start="20261114202001 +0000" stop="20261114230000 +0000">
+    <programme channel="6a9fc2af17c0d8c7a37697d0" start="20261114190658 +0000" stop="20261114230000 +0000">
         <title>Cenando con Pablo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/featuredImage_1789400793549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
